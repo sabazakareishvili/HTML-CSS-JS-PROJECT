@@ -1,0 +1,80 @@
+{
+    "topAiringAnime": [
+      {
+        "src": "./photos/shangri-la-frontier-11.jpg",
+        "alt": "Shangri-La Frontier"
+      },
+      {
+        "src": "./photos/https___hiddenremote.com_files_image-exchange_2021_10_ie_77697.jpeg",
+        "alt": "Hidden Remote"
+      },
+      {
+        "src": "./photos/MV5BYjM0MDRkYzctMTNhMS00ODYwLTgwMWItZDYxNDlhOGY1YjRlXkEyXkFqcGdeQXVyMzExMzk5MTQ@._V1_FMjpg_UX1000_.jpg",
+        "alt": "MV5BYjM0MDRkYzctMTNhMS00ODYwLTgwMWItZDYxNDlhOGY1YjRlXkEyXkFqcGdeQXVyMzExMzk5MTQ@._V1_FMjpg_UX1000_.jpg"
+      },
+      {
+        "src": "./photos/One_Piece_TV_Series-647985949-large.jpg",
+        "alt": "One Piece"
+      }
+    ],
+    "mostWatchedAnime": [
+      {
+        "src": "./photos/Code_Geass_R1_box_set_cover.jpg",
+        "alt": "Code Geass"
+      },
+      {
+        "src": "./photos/attack on titan.jpg",
+        "alt": "Attack on Titan"
+      },
+      {
+        "src": "./photos/death note.jpg",
+        "alt": "Death Note"
+      },
+      {
+        "src": "./photos/fullmetal alchemist.jpg",
+        "alt": "Fullmetal Alchemist"
+      },
+      {
+        "src": "./photos/steins gate.jpg",
+        "alt": "Steins Gate"
+      },
+      {
+        "src": "./photos/demonslayer.jpg",
+        "alt": "Demon Slayer"
+      },
+      {
+        "src": "./photos/haikyuu.jpg",
+        "alt": "Haikyuu"
+      }
+    ],
+    "dubbedAnime": [
+      {
+        "src": "./photos/mashle.jpg",
+        "alt": "Mashle"
+      },
+      {
+        "src": "./photos/mha.jpg",
+        "alt": "My Hero Academia"
+      },
+      {
+        "src": "./photos/one puch man.jpg",
+        "alt": "One Punch Man"
+      },
+      {
+        "src": "./photos/erased.jpg",
+        "alt": "Erased"
+      },
+      {
+        "src": "./photos/spy.jpg",
+        "alt": "Spy x Family"
+      },
+      {
+        "src": "./photos/kuroko.jpg",
+        "alt": "Kuroko's Basketball"
+      },
+      {
+        "src": "./photos/blue lock.jpg",
+        "alt": "Blue Lock"
+      }
+    ]
+  }
